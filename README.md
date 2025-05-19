@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/Logo_SpellMetrics.png" alt="Wizarding Spell Metrics Logo" width="600"/>
+  <img src="assets/big-data-greenbookblog_org.webp" alt="" width="600"/>
 </p>
 
 
