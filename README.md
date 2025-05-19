@@ -1,7 +1,7 @@
 <p align="center">
-  <img src="assets/big-data-greenbookblog_org.webp" alt="" width="600"/>
+  <img src="assets/big-data-greenbookblog_org.webp" alt="" width="500"/>
 </p>
 
 
-## Reumato0ïde arthritis casus - Transcriptomics 
+## Reumatoïde arthritis casus - Transcriptomics 
 ## Door: Haye Hoeksema
