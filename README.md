@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/big-data-greenbookblog_org" alt="" width="600"/>
+  <img src="assets/big-data-greenbookblog_org.webp" alt="" width="600"/>
 </p>
 
 
@@ -7,3 +7,5 @@
 ## Door: Haye Hoeksema
 
 
+
+**Inleiding**
