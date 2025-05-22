@@ -1,5 +1,5 @@
 <p align="center">
-  <img src=""C:\Users\hayeh\OneDrive - NHL Stenden\Github - Transcriptomics\Assets\Afbeelding.jpg width="600"/>
+  <img src="C:\Users\hayeh\OneDrive - NHL Stenden\Github - Transcriptomics\Assets\Afbeelding.jpg" width="600"/>
 </p>
 
 
