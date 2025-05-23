@@ -1,5 +1,5 @@
 <p align="center">
-  <img src=""Assets/.Afbeelding.JPG""
+  <img src=""Assets/Afbeelding.PDF""
 </p>
 
 
