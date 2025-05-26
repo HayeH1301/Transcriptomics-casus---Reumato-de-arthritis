@@ -11,7 +11,6 @@ Van vier mensen met RA en vier mensen zonder RA zijn er samples genomen van het 
 
 
 **Refseq van NCBI in R toepassen**
-
 De mensen met RA zijn postief getest op auto-antistoffen ACPA en CCP met een diagnose van >12 maanden. Mensen zonder RA waren hierop negatief getest.   
 
 
