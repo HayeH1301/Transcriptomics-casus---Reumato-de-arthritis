@@ -6,7 +6,7 @@
  Door: Haye Hoeksema
  
 **Inleiding**
-Reumatoïde artritis (RA) is een systemische auto-immuunziekte die door verschillende factoren zoals omgeving, aanleg en een ontspoord immuunsysteem kan (mogelijk) veroorzaakt worden. De directe oorzaak van RA is nog onbekend. Ontsteking van het gewrichtsslijmvlies (synovitis) speelt een veel voorkomende rol bij RA en kan met medicijngebruik de symptomen verminderen (minstens er op tijd actie is genomen). Dit kan met diagnose op auto-antistoffen in het slijmvlies van de gewrichten geconcludeerd worden. *(Wat meer lore nog uitleggen over hoe het precies ontstaat en citaties toevoegen)*
+Reumatoïde artritis (RA) is een systemische auto-immuunziekte die chronische ontsteking ontwaakt in de gewrichten. Pathologische veranderingen aan de structuur van het synoviaal stroma, dat zich bekleed aan de binnenkant van het gewricht. B-cellen, macrofagen, CD4<sup>+</> RA komt 3-5 keer vaker voor bij vrouwen dan bij mannen.   (Jiang et al., 2025).
 
 **Refseq van NCBI in R toepassen**
 
