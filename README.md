@@ -11,7 +11,7 @@ Van vier mensen met RA en vier mensen zonder RA zijn er samples genomen van het 
 
 
 **Refseq van NCBI in R toepassen**
-De mensen met RA zijn postief getest op auto-antistoffen ACPA en CCP met een diagnose van >12 maanden. Mensen zonder RA waren hierop negatief getest.   
+De mensen met RA zijn postief getest op auto-antistoffen ACPA en CCP met een diagnose van >12 maanden. Mensen zonder RA waren hierop negatief getest. De samples waren al gesequenced en door een kwaliteitscontrole gegaan waarmee rauwe data sequenties waren gevormd. Deze sequenties werden gemapped met het menselijk referentiegenoom "Mensen genoom van ENSEMBL toevoegen", en werden vervolgens in IGV (Integratics Genomics Viewer) bekeken voor overlappende reads (op bepaalde afstanden van basenparen) met het genoom. 
 
 
 **Resultaten** (Belangrijkste wat in de titel verwerken)
