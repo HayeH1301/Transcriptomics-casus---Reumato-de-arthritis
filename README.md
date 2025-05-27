@@ -17,3 +17,126 @@ Vier mensen met RA zijn postief getest op auto-antistoffen ACPA en CCP met een d
 **Resultaten** (Belangrijkste wat in de titel verwerken)
 
 **Conclusie** (wat concluderende zin van titel maken)
+
+
+
+*"PACKAGES INFO VAN TOT NU TOE. NOG MOGELIJK, TOEKOMSTIGE PACKAGES TOEVOEGEN VOOR BIJ GENE TESTING ENZOVOORT (LATER EVEN KLEINE CITATIES VAN MAKEN EN ARTIKELEN IN ASSETS FOLDER DOEN)"*
+#Citeer de package
+> citation("Rsubread")
+To cite package ‘Rsubread’ in publications use:
+
+  Liao Y, Smyth GK and Shi W (2019). The R package Rsubread is easier, faster,
+  cheaper and better for alignment and quantification of RNA sequencing reads.
+  Nucleic Acids Research 47(8), e47.
+
+A BibTeX entry for LaTeX users is
+
+  @Article{,
+    title = {The {R} package {Rsubread} is easier, faster, cheaper and better for alignment and quantification of {RNA} sequencing reads},
+    author = {Yang Liao and Gordon K. Smyth and Wei Shi},
+    journal = {Nucleic Acids Research},
+    year = {2019},
+    volume = {47},
+    issue = {8},
+    pages = {e47},
+    doi = {10.1093/nar/gkz114},
+  }
+> #Citeer de package
+> citation("Rsamtools")
+To cite package ‘Rsamtools’ in publications use:
+
+  Morgan M, Pagès H, Obenchain V, Hayden N (2024). _Rsamtools: Binary alignment
+  (BAM), FASTA, variant call (BCF), and tabix file import_.
+  doi:10.18129/B9.bioc.Rsamtools <https://doi.org/10.18129/B9.bioc.Rsamtools>, R
+  package version 2.22.0, <https://bioconductor.org/packages/Rsamtools>.
+
+A BibTeX entry for LaTeX users is
+
+  @Manual{,
+    title = {Rsamtools: Binary alignment (BAM), FASTA, variant call (BCF), and tabix
+file import},
+    author = {Martin Morgan and Hervé Pagès and Valerie Obenchain and Nathaniel Hayden},
+    year = {2024},
+    note = {R package version 2.22.0},
+    url = {https://bioconductor.org/packages/Rsamtools},
+    doi = {10.18129/B9.bioc.Rsamtools},
+  }
+> #Citeer de package
+> citation("DESeq2")
+To cite package ‘DESeq2’ in publications use:
+
+  Love, M.I., Huber, W., Anders, S. Moderated estimation of fold change and
+  dispersion for RNA-seq data with DESeq2 Genome Biology 15(12):550 (2014)
+
+A BibTeX entry for LaTeX users is
+
+  @Article{,
+    title = {Moderated estimation of fold change and dispersion for RNA-seq data with DESeq2},
+    author = {Michael I. Love and Wolfgang Huber and Simon Anders},
+    year = {2014},
+    journal = {Genome Biology},
+    doi = {10.1186/s13059-014-0550-8},
+    volume = {15},
+    issue = {12},
+    pages = {550},
+  }
+> #Citeer de package
+> citation("KEGGREST")
+To cite package ‘KEGGREST’ in publications use:
+
+  Tenenbaum D, Maintainer B (2024). _KEGGREST: Client-side REST access to the Kyoto
+  Encyclopedia of Genes and Genomes (KEGG)_. doi:10.18129/B9.bioc.KEGGREST
+  <https://doi.org/10.18129/B9.bioc.KEGGREST>, R package version 1.46.0,
+  <https://bioconductor.org/packages/KEGGREST>.
+
+A BibTeX entry for LaTeX users is
+
+  @Manual{,
+    title = {KEGGREST: Client-side REST access to the Kyoto Encyclopedia of Genes and
+Genomes (KEGG)},
+    author = {Dan Tenenbaum and Bioconductor Package Maintainer},
+    year = {2024},
+    note = {R package version 1.46.0},
+    url = {https://bioconductor.org/packages/KEGGREST},
+    doi = {10.18129/B9.bioc.KEGGREST},
+  }
+> #Citeer de package
+> citation("EnhancedVolcano")
+To cite package ‘EnhancedVolcano’ in publications use:
+
+  Blighe K, Rana S, Lewis M (2024). _EnhancedVolcano: Publication-ready volcano
+  plots with enhanced colouring and labeling_. doi:10.18129/B9.bioc.EnhancedVolcano
+  <https://doi.org/10.18129/B9.bioc.EnhancedVolcano>, R package version 1.24.0,
+  <https://bioconductor.org/packages/EnhancedVolcano>.
+
+A BibTeX entry for LaTeX users is
+
+  @Manual{,
+    title = {EnhancedVolcano: Publication-ready volcano plots with enhanced colouring and
+labeling},
+    author = {Kevin Blighe and Sharmila Rana and Myles Lewis},
+    year = {2024},
+    note = {R package version 1.24.0},
+    url = {https://bioconductor.org/packages/EnhancedVolcano},
+    doi = {10.18129/B9.bioc.EnhancedVolcano},
+  }
+> #Citeer de package
+> citation("pathview")
+To cite pathview:
+
+  Luo, W. and Brouwer C., Pathview: an R/Bioconductor package for pathway-based data
+  integration and visualization. Bioinformatics, 2013, 29(14): 1830-1831, doi:
+  10.1093/bioinformatics/btt285
+
+A BibTeX entry for LaTeX users is
+
+  @Article{,
+    author = {{Luo} and {Weijun} and {Brouwer} and {Cory}},
+    title = {Pathview: an R/Bioconductor package for pathway-based data integration and visualization},
+    journal = {Bioinformatics},
+    year = {2013},
+    doi = {10.1093/bioinformatics/btt285},
+    volume = {29},
+    number = {14},
+    pages = {1830-1831},
+  }
