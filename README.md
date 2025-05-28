@@ -13,7 +13,7 @@ Van vier mensen met RA en vier mensen zonder RA zijn er samples genomen van het 
 **Refseq van NCBI in R toepassen**
 
 <p align="center">
-  <img src="Assets/Flowschema_Github_pagina_qPCR.png" alt="Flowschema" width="600"/>
+  <img src="Assets/Flowschema - Github pagina, qPCR.png" alt="Flowschema" width="600"/>
 </p>
 
 
