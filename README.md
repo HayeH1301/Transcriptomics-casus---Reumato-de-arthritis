@@ -12,7 +12,7 @@ Van vier mensen met RA en vier mensen zonder RA zijn er samples genomen van het 
 
 **Refseq van NCBI in R toepassen**
 
-<p align="center">
+<p align="left">
   <img src="Assets/Flowschema - Github pagina, qPCR.png" alt="Flowschema" width="600"/>
 </p>
 
@@ -29,25 +29,25 @@ library(msigdbr)
 Voor het onderzoeken van RA, zijn er verschillende 
 
 
-<p align="center">
+<p align="left">
   <img src="Assets/VolcanoplotWC.png" alt="Volcanoplot" width="600"/>
 </p>
 
-*Figuur 2: Volcanoplot voor het aantonen van omhoog-en omlaag-gereguleerde genen met bepaalde significantie ()*
+*Figuur 2: Volcanoplot voor het aantonen van omhoog-en omlaag-gereguleerde genen met bepaalde biologische-en/of statistische significantie (groen = biologisch significant, rood is biologsich als statistisch significant, grijs = geen van beide, negatieve log-waarde = omlaag-gereguleerd en vice versa).*
 
-<p align="center">
+<p align="left">
   <img src="Assets/GO enrichment.png" alt="GO enrichment" width="700"/>
 </p>
 
 *Figuur 3: GO enrichment van algemene vertakkingen van bioproces-pathways die omhoog-gereguleerde expressie tonen bij RA (BP, p < 0.05).*
 
-<p align="center">
+<p align="left">
   <img src="Assets/Pathway enrichment.png" alt="Pathway enrichment" width="700"/>
 </p>
 
 *Figuur 4: GO enrichment op specifieke pathways gebaseerd op de meest omhoog-gereguleerde genen bij RA (BP, p < 0.05).*
 
-<p align="center">
+<p align="left">
   <img src="Assets/hsa05323.pathview.png" alt="hsa05323.pathview" width="700"/>
 </p>
 
