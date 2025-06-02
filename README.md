@@ -15,7 +15,7 @@ Van vier mensen met RA en vier mensen zonder RA zijn er samples genomen van het 
 <p align="center">
   <img src="Assets/Flowschema - Github pagina, qPCR.png" alt="Flowschema" width="600"/>
 </p>
-
+*Figuur 1: Flowschema van protocol voor dit onderzoek.*
 
 Vier mensen met RA zijn postief getest op auto-antistoffen ACPA en CCP met een diagnose van >12 maanden en Vier mensen waren negatief (controle). Rauwe data van de samples was al verkregen en een kwaliteitscontrole was gedaan. Deze sequenties werden gemapped tegen het menselijk referentiegenoom "Homo_sapiens.GRCh38.dna.toplevel.fa.g" van ENSEMBL, door een index van de verkregen forward -en reverse reads van de samples te vormen. Deze gelijnde reads werden als .BAM bestanden opgeslagen en vervolgens gesorteerd tot één bestand *(Packages: "Rsubread", "Rsamtools")*. Van de gesorteerde BAM-bestanden was een matrix gevormd waarin de gemapte reads waren geteld en op kaart gebracht in een aangemaakt data-frame. Hierna werd de volledige sample-data in een count-matrix verkregen. Uit de count-matrix waren de genen met hun naam en counts apart gezet in een nieuw data-frame om daarna in een volcanoplot geplot te worden, waarin interessante levels van significantie en verhoging/verlaging van expressie te zien zijn (sig = <= 0.5, expressie >= 1.5 keer verhoogd/verlaagd). Als laatste werd een "GO enrichment" en "Gene testing" uitgevoerd via Gene Ontology, om de pathways van alle gemapte genen te weergeven en de relevante pathways met biologische significantie via kegg.jp (Kyoto Encyclopedia of Genes and Genomes) *(Packages: "Rsubread", "Rsamtools", "readr", "dplyr", "Goseq", "GO.db", TxDb.Hsapiens.UCSC.hg38.knownGene")*
 
@@ -31,20 +31,20 @@ Voor het onderzoeken van RA, zijn er verschillende
 <p align="center">
   <img src="Assets/VolcanoplotWC.png" alt="Volcanoplot" width="600"/>
 </p>
-
+*Figuur 1: Flowschema van protocol voor dit onderzoek.*
 
 <p align="center">
   <img src="Assets/GO enrichment.png" alt="GO enrichment" width="700"/>
 </p>
-
+*Figuur 2: GO enrichment van algemene vertakkingen van bioproces-pathways die omhoog-gereguleerde expressie tonen bij RA (BP, p < 0.05).*
 <p align="center">
   <img src="Assets/Pathway enrichment.png" alt="Pathway enrichment" width="700"/>
 </p>
-
+*Figuur 3: GO enrichment op specifieke pathways gebaseerd op de meest omhoog-gereguleerde genen bij RA (BP, p < 0.05).*
 <p align="center">
   <img src="Assets/hsa05323.pathview.png" alt="hsa05323.pathview" width="700"/>
 </p>
-
+*Figuur 4: Beeld van laag, hoog-gereguleerde-en neutrale expressie (geen verhoging of verlaging) bij RA pathway (hsa05323, KEGG.jp, p <0.05).*
 
 
 
