@@ -34,15 +34,15 @@ Voor het onderzoeken van RA, zijn er verschillende
 
 
 <p align="center">
-  <img src="Assets/GO enrichment.png" alt="GO enrichment" width="600"/>
+  <img src="Assets/GO enrichment.png" alt="GO enrichment" width="700"/>
 </p>
 
 <p align="center">
-  <img src="Assets/Pathway enrichment.png" alt="Pathway enrichment" width="600"/>
+  <img src="Assets/Pathway enrichment.png" alt="Pathway enrichment" width="700"/>
 </p>
 
 <p align="center">
-  <img src="Assets/hsa05323.pathview.png" alt="hsa05323.pathview" width="600"/>
+  <img src="Assets/hsa05323.pathview.png" alt="hsa05323.pathview" width="700"/>
 </p>
 
 
