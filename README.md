@@ -29,7 +29,7 @@ Voor het onderzoeken van RA, zijn er verschillende
 
 
 <p align="center">
-  <img src="Assets/Volcanoplot.png" alt="Volcanoplot" width="600"/>
+  <img src="Assets/Volcanoplot.png" alt="VolcanoplotWC" width="600"/>
 </p>
 
 
