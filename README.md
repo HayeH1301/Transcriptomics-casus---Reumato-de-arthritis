@@ -53,9 +53,11 @@ Voor het onderzoeken van RA, zijn er verschillende
 
 *Figuur 5: Beeld van laag, hoog-gereguleerde-en neutrale expressie (geen verhoging of verlaging) bij RA pathway (hsa05323, KEGG.jp, p <0.05).*
 
+<p align="left">
+  <img src="Assets/hsa04210+597.pathview.png" alt="hsa04210+597 pathview" width="700"/>
+</p>
 
-
-
+*Figuur 6: Beeld van laag, hoog-gereguleerde-en neutrale expressie (geen verhoging of verlaging) bij apoptose pathway (hsa04210+597, KEGG.jp, p <0.05).*
 
 **Conclusie** (wat concluderende zin van titel maken)
 
