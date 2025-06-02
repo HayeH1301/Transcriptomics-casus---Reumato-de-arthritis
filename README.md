@@ -25,6 +25,30 @@ library(msigdbr)
 
 
 **Resultaten** (Belangrijkste wat in de titel verwerken)
+Voor het onderzoeken van RA, zijn er verschillende 
+
+
+<p align="center">
+  <img src="Assets/Volcanoplot.png" alt="Volcanoplot" width="600"/>
+</p>
+
+
+<p align="center">
+  <img src="Assets/GO enrichment.png" alt="GO enrichment" width="600"/>
+</p>
+
+<p align="center">
+  <img src="Assets/Pathway enrichment.png" alt="Pathway enrichment" width="600"/>
+</p>
+
+<p align="center">
+  <img src="Assets/hsa05323.pathview.png" alt="hsa05323.pathview" width="600"/>
+</p>
+
+
+
+
+
 
 **Conclusie** (wat concluderende zin van titel maken)
 
