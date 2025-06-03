@@ -25,8 +25,8 @@ library(edgeR)
 library(msigdbr) 
 
 
-**Resultaten** (Belangrijkste wat in de titel verwerken)
-Voor het onderzoeken van RA, zijn er verschillende 
+**Verschillende genen omhoog-en omlaag-gereguleerd bij RA**
+Voor het onderzoeken van de expressie van RA, was er een Refseq uitgevoerd bij controle als behandelingssamples uitgevoerd en dit gemapt op het menselijk genoom. Hiervoor zijn p-waardes berekent 
 
 
 <p align="left">
