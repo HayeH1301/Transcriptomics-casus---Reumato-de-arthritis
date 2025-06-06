@@ -34,7 +34,7 @@ A BibTeX entry for LaTeX users is
     doi = {10.1093/nar/gkaf018},
   }
 
-#*3. limma:*
+*3. limma:*
 
   Ritchie, M.E., Phipson, B., Wu, D., Hu, Y., Law, C.W., Shi, W., and Smyth, G.K.
   (2015). limma powers differential expression analyses for RNA-sequencing and
