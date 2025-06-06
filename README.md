@@ -57,9 +57,134 @@ Voor het onderzoeken van de expressie van RA, was er een Refseq uitgevoerd bij c
 Veel genen raken bij RA significant betrokken door omhoog of omlaag-regeguleerd te worden volgens de volcanoplot. Verder worden er verschillende, immunologische genen als pathways omhoog gereguleerd bij RA, waarop vooral eiwitbinding ontstaat. Naast de algemene RA pathway map in KEGG.jp, was er ook een statistische als biologische significantie bij de apoptose pathway map. Naast een verhoging van een paar genen betrokken bij ontsteking en beschadiging van de gewrichtsstructuur is er ook een significante, expressionele verhoging (3x) aan verschillende genen (zoals BCL2A1) die betrokken zijn bij apoptose. Hierop kan verder volgense de resultaten aangeduidt worden dat geamplificeerde apoptose door het overwerkend immuunsysteem een sterk gevolg is van RA. Volgens (Yoshida & Tanaka, 2014) is er al veel bekend over de hoofdrolspelers bij de vorming van RA. Onder anderen IL6 (Interleukine 6) blijkt bij citrullinisatie veel overwerkende functies door te geven aan T-en B-cellen, waardoor ontsteking wordt versterkt. Hiervoor bestaat al een veilig-geteste DMARD voor, die in meer dan honderd landen beschikbaar is. Verder is bekend dat BCL2A1 bij apoptose sterk verhoogd (3x) is bij RA. Volgens (Vogler, 2012) zou BCL2A1 bekend staan om het hoog of laag reguleren van de apoptose. Hierdoor zou het mogelijk kunnen zijn dat er bij RA (ter overleving van de overwerkte leukocyten) BCL2A1 de doding van immuuncellen probeert te minimaliseren. Hiervoor zou meer onderzoek naar gedaan kunnen worden, door te kijken naar meerdere gerelateerde pathways en patiëntensamples.  
 
 
+> citation("msigdbr")
+To cite package ‘msigdbr’ in publications use:
+
+  Dolgalev I (2025). _msigdbr: MSigDB Gene Sets for Multiple Organisms in a Tidy
+  Data Format_. R package version 24.1.0,
+  <https://CRAN.R-project.org/package=msigdbr>.
+
+A BibTeX entry for LaTeX users is
+
+  @Manual{,
+    title = {msigdbr: MSigDB Gene Sets for Multiple Organisms in a Tidy Data Format},
+    author = {Igor Dolgalev},
+    year = {2025},
+    note = {R package version 24.1.0},
+    url = {https://CRAN.R-project.org/package=msigdbr},
+  }
 
 
-*"PACKAGES INFO VAN TOT NU TOE. NOG MOGELIJK, TOEKOMSTIGE PACKAGES TOEVOEGEN VOOR BIJ GENE TESTING ENZOVOORT (LATER EVEN KLEINE CITATIES VAN MAKEN EN ARTIKELEN IN ASSETS FOLDER DOEN)"* *Packages nog met auteur van artikel en package version citeren!* voor: "Goseq", "GO.db", TxDb.Hsapiens.UCSC.hg38.knownGene" library(limma)library(edgeR) library(msigdbr) 
+citation("edgeR")
+See Section 1.2 in the User's Guide for more detail about how to cite specific edgeR
+pipelines.
+
+  Chen Y, Chen L, Lun ATL, Baldoni PL, Smyth GK (2025). edgeR v4: powerful
+  differential analysis of sequencing data with expanded functionality and improved
+  support for small counts and larger datasets. Nucleic Acids Research 53(2),
+  gkaf018.
+
+A BibTeX entry for LaTeX users is
+
+  @Article{,
+    author = {Yunshun Chen and Lizhong Chen and Aaron T L Lun and Pedro Baldoni and Gordon K Smyth},
+    title = {{edgeR} v4: powerful differential analysis of sequencing data with expanded functionality and improved support for small counts and larger datasets},
+    year = {2025},
+    journal = {Nucleic Acids Research},
+    volume = {53},
+    number = {2},
+    pages = {gkaf018},
+    doi = {10.1093/nar/gkaf018},
+  }
+
+
+
+
+
+
+
+
+> citation("limma")
+To cite package ‘limma’ in publications use:
+
+  Ritchie, M.E., Phipson, B., Wu, D., Hu, Y., Law, C.W., Shi, W., and Smyth, G.K.
+  (2015). limma powers differential expression analyses for RNA-sequencing and
+  microarray studies. Nucleic Acids Research 43(7), e47.
+
+A BibTeX entry for LaTeX users is
+
+  @Article{,
+    author = {Matthew E Ritchie and Belinda Phipson and Di Wu and Yifang Hu and Charity W Law and Wei Shi and Gordon K Smyth},
+    title = {{limma} powers differential expression analyses for {RNA}-sequencing and microarray studies},
+    journal = {Nucleic Acids Research},
+    year = {2015},
+    volume = {43},
+    number = {7},
+    pages = {e47},
+    doi = {10.1093/nar/gkv007},
+  }
+> 
+
+
+
+> citation("TxDb.Hsapiens.UCSC.hg38.knownGene")
+To cite package ‘TxDb.Hsapiens.UCSC.hg38.knownGene’ in publications use:
+
+  Team BC, Maintainer BP (2024). _TxDb.Hsapiens.UCSC.hg38.knownGene: Annotation
+  package for TxDb object(s)_. R package version 3.20.0.
+
+A BibTeX entry for LaTeX users is
+
+  @Manual{,
+    title = {TxDb.Hsapiens.UCSC.hg38.knownGene: Annotation package for TxDb object(s)},
+    author = {Bioconductor Core Team and Bioconductor Package Maintainer},
+    year = {2024},
+    note = {R package version 3.20.0},
+  }
+
+
+
+  
+
+> citation("GO.db")
+To cite package ‘GO.db’ in publications use:
+
+  Carlson M (2024). _GO.db: A set of annotation maps describing the entire Gene
+  Ontology_. R package version 3.20.0.
+
+A BibTeX entry for LaTeX users is
+
+  @Manual{,
+    title = {GO.db: A set of annotation maps describing the entire Gene Ontology},
+    author = {Marc Carlson},
+    year = {2024},
+    note = {R package version 3.20.0},
+  }
+
+
+
+
+
+Goseq
+Young, M.D., Wakefield, M.J., Smyth, G.K., Oshlack, A., Gene ontology analysis for
+  RNA-seq: accounting for selection bias, Genome Biology, 11, 2, Feb 2010, R14
+
+A BibTeX entry for LaTeX users is
+
+  @Article{,
+    title = {Gene ontology analysis for RNA-seq: accounting for selection bias},
+    author = {Matthew D Young and Matthew J Wakefield and Gordon K Smyth and Alicia Oshlack},
+    journal = {Genome Biology},
+    volume = {11},
+    pages = {R14},
+    year = {2010},
+  }
+
+
+
+
+
+
 
 #Citeer de package
 > citation("Rsubread")
