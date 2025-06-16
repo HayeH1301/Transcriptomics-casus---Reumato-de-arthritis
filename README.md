@@ -12,6 +12,8 @@ Reumatoïde artritis (RA) is een systemische auto-immuunziekte die chronische on
 Van vier mensen met RA en vier mensen zonder RA zijn er samples genomen van het gewrichtslijmvlies (synoviumbiopt), waarbij een Transcriptomics analyse is van uitgevoerd in R. Zo zal er gekeken worden naar verschillende genen en pathways die (meer/minder) betrokken zijn bij RA vergeleken met gezonde mensen. 
 
 
+
+
 **Refseq van NCBI in R toepassen**
 
 <p align="left">
@@ -21,6 +23,8 @@ Van vier mensen met RA en vier mensen zonder RA zijn er samples genomen van het 
 *Figuur 1: Flowschema van protocol voor dit onderzoek.*
 
 Vier mensen met RA zijn postief getest op auto-antistoffen ACPA en CCP met een diagnose van >12 maanden en vier mensen waren negatief (controle). Rauwe data van de samples was al verkregen en een kwaliteitscontrole was gedaan. Deze sequenties werden gemapped tegen het menselijk referentiegenoom "Homo_sapiens.GRCh38.dna.toplevel.fa.g" van ENSEMBL, in een index van forward-en reverse reads. Vervolgens werden reads als .BAM bestanden opgeslagen en gesorteerd *(Packages: 7, 8 in citatielijst)*. De BAM-bestanden werden in een matrix gevormd, waarin de gemapte reads waren geteld en op kaart gebracht in een aangemaakt data-frame, wat dus een count-matrix werd. Hierin werden genen met hun naam en counts apart gezet om in een volcanoplot geplot te worden, waarin biologische-en statistische significantie te zien is bij verhoogde, verlaagde en neutrale expressie (sig = <= 0.5, expressie, bio.sig >= 1.5 keer verhoogd/verlaagd). Als laatste werd een "GO enrichment" en "Gene testing" uitgevoerd via Gene Ontology, om de pathways van alle gemapte genen te weergeven en de relevante pathways met biologische significantie via kegg.jp (Kyoto Encyclopedia of Genes and Genomes) *(Packages: alles in citatielijst)* in te kleuren.
+
+
 
 **Verschillende genen omhoog-en omlaag-gereguleerd bij RA:**
 
@@ -56,6 +60,8 @@ Voor het onderzoeken van de expressie van RA, was er een Refseq uitgevoerd bij c
 </p>
 
 *Figuur 6: Beeld van laag, hoog-gereguleerde-en neutrale expressie (geen verhoging of verlaging) bij apoptose pathway (hsa04210+597, KEGG.jp, p <0.05).*
+
+
 
 **Naast versterkte apoptose ook IL6 een belangrijk gen:** 
 
