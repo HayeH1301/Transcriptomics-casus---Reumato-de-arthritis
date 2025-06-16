@@ -2,7 +2,7 @@
   <img src="Assets/Afbeelding.jpg" alt="Afbeelding" width="600"/>
 </p>
 
-## Reumatoïde arthritis casus - Transcriptomics 
+## Reumatoïde artritis casus - Transcriptomics 
  Door: Haye Hoeksema
  
 **Inleiding**
