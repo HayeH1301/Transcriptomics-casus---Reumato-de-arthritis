@@ -4,7 +4,7 @@ Bij data stewardship wordt er gesproken over het veilig als betrouwbaar kunnen d
 
 Voor het het juist beheren onder de regels van data stewardship, komt het volgende bij kijken:
 
-- Veilig opslaan van data: Denk voor R bijvorobeeld aan "CVS.write", of "saveRDS". Zo kan alles duidelijk met goede resolutie opgeslagen worden en door anderen bekeken worden.
+- Veilig opslaan van data: Denk voor R bijvoorbeeld aan "CVS.write", of "saveRDS". Zo kan alles duidelijk met goede resolutie opgeslagen worden en door anderen bekeken worden.
 
 - Een duidelijke mappenstructuur en als duidelijke bestandnamen hebben: Door bestandnamen met willekeurige cijfers en letters aan te passen met een nieuwe naam die direct verteld wat de data inhoudt, kan een Github-gebruiker sneller helpen om de juiste informatie te kunnen vinden.
 
