@@ -3,7 +3,7 @@
 </p>
 
 ## Reumatoïde artritis casus - Transcriptomics 
- Door: Haye Hoeksema
+ Door: Haye Hoeksema, BML2C
  
 **Inleiding**
 
