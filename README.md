@@ -2,7 +2,7 @@
   <img src="Assets/Afbeelding.jpg" alt="Afbeelding" width="600"/>
 </p>
 
-## Reumatoïde artritis bij RA-patiënten geassocieerd met verhoogde expressie van IL-6 en BCL2A1
+## Geamplificeerde genexpressie bij IL-6 en BCL2A1 binnen RA/apoptose-pathways in associatie met reumatoïde artritis-patiënten 
  Door: Haye Hoeksema, BML2C
  
 **Inleiding**
