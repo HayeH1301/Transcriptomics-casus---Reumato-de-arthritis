@@ -2,7 +2,7 @@
   <img src="Assets/Afbeelding.jpg" alt="Afbeelding" width="600"/>
 </p>
 
-## Reumatoïde artritis casus - Transcriptomics 
+## Reumatoïde artritis geassocieerd met verhoogde expressie van IL-6 en BCL2A1
  Door: Haye Hoeksema, BML2C
  
 **Inleiding**
